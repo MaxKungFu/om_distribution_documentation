@@ -1,1 +1,1 @@
-# om_distribution_documentation
+# Документация по установке и обновлению дистрибутивов проекта Optimacros
