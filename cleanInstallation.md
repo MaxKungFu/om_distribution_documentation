@@ -107,16 +107,16 @@ htop введя команду `htop`
         "frontend-build": {
           "appCongig": {
             "flags": [
-                "fun_loader_message_off",
-                "interface_theme_optimacros",
-                "color_scheme_advexcel",
-                "color_scheme_optimacros",
-                "color_scheme_olapsoft",
-                "color_scheme_corplan",
-                "color_scheme_orange",
-                "interface_language_RU",
-                "interface_language_EN",
-                "support_email_support@optimacros.com",
+                "fun_loader_message_off", // отключает "веселые" сообщения при первичной загрузке
+                "interface_theme_optimacros", // по умолчанию фиолетовая тема с тайтлом Optimacros и своим фавиконом
+                "color_scheme_advexcel", // цветовая схема advexcel доступна для выбора в настройках
+                "color_scheme_optimacros", // цветовая схема optimacros доступна для выбора в настройках
+                "color_scheme_olapsoft", // цветовая схема olapsoft доступна для выбора в настройках
+                "color_scheme_corplan", // цветовая схема corplan доступна для выбора в настройках
+                "color_scheme_orange", // цветовая схема orange доступна для выбора в настройках
+                "interface_language_RU", // руский язык доступен для выбора в настройках
+                "interface_language_EN", // английский язык доступен для выбора в настройках
+                "support_email_support@optimacros.com", // email для связи support@optimacros.com
             ]
           }
         }
