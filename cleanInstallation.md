@@ -101,6 +101,26 @@ htop введя команду `htop`
     },
     "admin": {
       "email": "admin@optimacros.com" // почтовый ящик пользователя администратора воркспейса
+    },
+    "console": {
+      "commands": {
+        "frontend-build": {
+          "appCongig": {
+            "flags": [
+                "fun_loader_message_off",
+                "interface_theme_optimacros",
+                "color_scheme_advexcel",
+                "color_scheme_optimacros",
+                "color_scheme_olapsoft",
+                "color_scheme_corplan",
+                "color_scheme_orange",
+                "interface_language_RU",
+                "interface_language_EN",
+                "support_email_support@optimacros.com",
+            ]
+          }
+        }
+      }
     }
   }
 }
